@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everybody! 👋
+
+My most favorite ❤️ software products now are: Serverless, Terraform, Kotlin and Camunda. 
+
+See below for my projects, [reach out to me on LinkedIn](https://www.linkedin.com/in/ruslanfg/) or [buy me a coffee](https://www.buymeacoffee.com/huksley)
 
 <!--
 **huksley/huksley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
