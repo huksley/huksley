@@ -1,6 +1,6 @@
 ### Hello everybody! 👋
 
-My most favorite ❤️ software products now are: Serverless, Terraform, Kotlin and Camunda. 
+My most favorite ❤️ software products now are: Serverless, Terraform, Typescript and Camunda. 
 
 See below for my projects, [reach out to me on LinkedIn](https://www.linkedin.com/in/ruslanfg/) or [buy me a coffee](https://www.buymeacoffee.com/huksley)
 
