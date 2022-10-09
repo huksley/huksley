@@ -1,6 +1,8 @@
+https://github-readme-stats.vercel.app/api?username=huksley&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217
+
 ### Hello everybody! 👋
 
-My most favorite ❤️ software products now are: Serverless, Terraform, Typescript and Camunda. 
+My most favorite ❤️ software products now are: Serverless, NextJS, Typescript and Camunda. 
 
 See below for my projects, [reach out to me on LinkedIn](https://www.linkedin.com/in/ruslanfg/) or [buy me a coffee](https://www.buymeacoffee.com/huksley)
 
