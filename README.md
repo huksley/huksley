@@ -1,4 +1,4 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huksley&title_color=fedd00&icon_color=fedd00&text_color=fedd00&bg_color=0E1217)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huksley&title_color=fff&icon_color=fedd00&text_color=fedd00&bg_color=0E1217)
 
 ### Hello everybody! 👋
 
