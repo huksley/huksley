@@ -2,9 +2,11 @@
 
 ### Hello everybody! 👋
 
-My most favorite ❤️ software products now are: Serverless, NextJS, Typescript and Camunda. 
+I specialize in making webapps, platforms and tools.
 
-See below for my projects, [reach out to me on LinkedIn](https://www.linkedin.com/in/ruslanfg/) or [buy me a coffee](https://www.buymeacoffee.com/huksley)
+Stellar experience in **React**, **MongoDB**, **AWS**, **Serverless**, **NextJS**, **Typescript**, **Camunda BPM** and **DevOps**.
+
+See below for some of my projects, [reach out to me on LinkedIn](https://www.linkedin.com/in/ruslanfg/) or [buy me a coffee](https://www.buymeacoffee.com/huksley)
 
 <!--
 **huksley/huksley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
