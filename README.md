@@ -2,7 +2,7 @@
 
 ### Hello everybody! 👋
 
-I specialize in making webapps, platforms and tools.
+I specialize in making SaaS web apps, platforms, and tools.
 
 Stellar experience in **React**, **MongoDB**, **AWS**, **Serverless**, **NextJS**, **Typescript**, **Camunda BPM** and **DevOps**.
 
